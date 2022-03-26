@@ -18,3 +18,4 @@ for (let i = 0; i < 3; i++) {
 }
 
 console.log(products);
+// verifica se foi rendeizado tudo direitinho após 'npm run start' e abrir localhost:8081 ao observar o que está sendo retornado do DevTools
